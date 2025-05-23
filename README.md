@@ -1,6 +1,15 @@
 # HackCharm
 A tiny circular keychain with a pixelated face on an OLED that reacts to taps/shakes to change its expression. It is basically a cute interactive keychain!!
 
+### BOM (in progress)
+| Item                                       | Purpose    | Source | Price |
+|--------------------------------------------|------------|--------|-------|
+| Xiao-ESP32-S3                              | Controller |        |       |
+| SSD1306 OLED Display                       | Screen     |        |       |
+| Button (not found yet)                     | Input      |        |       |
+| Accelerometer (not found yet)              | Input      |        |       |
+| Rechargeable Li-po Battery (not found yet) | Power      |        |       |
+
 # Hack-Charm Devlog / Creation Journal
 
 ## May 22nd: Planning/Designing on my notebook!
