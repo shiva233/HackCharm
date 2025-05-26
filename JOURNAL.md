@@ -67,3 +67,22 @@ Other things that need to be done:
 - Make a logo/banner (gonna be inspired by AirTag promotional material since it would be a similar shape)
 
 **Total time spent: 5h (spread across the day)**
+
+# May 25-26th: Identified the rest of the components and completed the schematic!
+
+TADA here is the schematic:
+![image](https://github.com/user-attachments/assets/a31f697f-1793-4e53-af15-264d5255bcc2)
+
+It is not really clean because I am not good at making schematics (yet!! I will clean it up later).
+
+But as you can see we have chosen an accelerometer! I chose the adxl362 and I found [a breakout board from SparkFun](https://www.sparkfun.com/sparkfun-triple-axis-accelerometer-breakout-adxl362.html) that helped me make this schematic. I am going to be using this for majority of the interactions with the HackCharm. (speaking of I might change the name to something more interesting)
+
+I am still learning how to use KiCad since I only have experience with easyEDA, but I feel like I did a good amount of work today with the schematic.
+
+Also I figured out how to use a battery with the XIAO-ESP32-S3 from [their documentation](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/)
+![image](https://github.com/user-attachments/assets/66cee0a5-315c-48a8-ab82-c7252b831783)
+
+The one drawback is that you cant tell what the battery percentage is, so that is something I will have to work around.
+
+
+**Total time spent: 3h**
