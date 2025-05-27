@@ -86,3 +86,19 @@ The one drawback is that you cant tell what the battery percentage is, so that i
 
 
 **Total time spent: 3h**
+
+# May 27th:
+![image](https://github.com/user-attachments/assets/34da7635-175e-4302-b9a0-6685d26598e1)
+
+So I had to change up my schematic because apparently the symbol/footprint I had for the accelerometer was kinda goofy. So I got a new one and I had to redo the schematic, which I think I spent around **1 hour** doing. 
+
+So after doing that I worked on the PCB itself!! this is my first time using KiCad so I dont know if I did this right but tada:
+
+![image](https://github.com/user-attachments/assets/16329d58-4848-4dc4-a271-25b75593ea1a)
+
+I manually routed all of the connections except for the ground line where I just made a copper fill for that. I had to be a bit creative with some of the routing especially around the adxl362.
+
+![image](https://github.com/user-attachments/assets/39a385f6-84a9-4db4-a213-d48312c58313)
+
+I have no idea if the routing I did is "legal" or if it works but I will research that more before I finalize this pcb!!! Right now I am bored with routing so I am gonna focus on the aesthetics aka SILKSCREEN ART!!!
+
