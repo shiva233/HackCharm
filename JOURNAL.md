@@ -1,5 +1,5 @@
 ---
-title: "Hack Charm"
+title: "HackCharm"
 author: "Shiva Prakash"
 description: "HackCharm is a tiny, keychain-sized pixel buddy that lives on your hip, lights up with adorable faces, and reacts to your taps, shakes, and love :D"
 created_at: "2025-05-22"
