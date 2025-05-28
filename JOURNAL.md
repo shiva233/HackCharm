@@ -106,3 +106,22 @@ I have no idea if the routing I did is "legal" or if it works but I will researc
 
 I have spent the last 2 hours thinking up lore and cryptic messages that I can hide/involve with this project and its been really fun but since its not directly working on the hardware end of this project im not going to include it. But anyways there is gonna be some cool stuff involved!! 
 
+I have made a few documents of lore that I plan to hide in places around the project (like the pcb, flash memory etc). Obv I would really be the only person who would see this but who knows maybe one day I would try and sell this.
+
+**Total time spent: 4h**
+
+# May 28th: (DONE THE PCB!!! Moving on to 3d modelling)
+
+I spent over like 2 hours making silkscreen art (really like 30 minutes of making the art and then an hour and a half trying to figure out how to make it look nice in KiCad)
+
+Design:
+![image](https://github.com/user-attachments/assets/9ccd7ec5-0f88-4c79-9b60-1e85f425fa5f)
+
+Was trying to go for a made in a scifi lab vibes
+
+![image](https://github.com/user-attachments/assets/20b6f8fe-12ad-428c-9186-4c04907b7233)
+
+Tada!! this is what the back looks like :D
+
+
+
