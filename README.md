@@ -12,7 +12,7 @@ A tiny circular keychain with a pixelated face on an OLED that reacts to taps/sh
 
 # Hack-Charm Devlog / Creation Journal
 
-## May 22nd: Planning/Designing on my notebook!
+# May 22nd: Planning/Designing on my notebook!
 
 **Hi hi!! Today, I spent the majority of my day planning out HackCharm!! It is basically a no-maintenance little Tamagotchi-type thing that lives on your keychain and displays adorable faces on its screen. It will also react to stuff like tapping, shaking, or pressing a button!!**
 
@@ -72,3 +72,59 @@ Other things that need to be done:
 - Make a logo/banner (gonna be inspired by AirTag promotional material since it would be a similar shape)
 
 **Total time spent: 5h (spread across the day)**
+
+# May 25-26th: Identified the rest of the components and completed the schematic!
+
+TADA here is the schematic:
+![image](https://github.com/user-attachments/assets/a31f697f-1793-4e53-af15-264d5255bcc2)
+
+It is not really clean because I am not good at making schematics (yet!! I will clean it up later).
+
+But as you can see we have chosen an accelerometer! I chose the adxl362 and I found [a breakout board from SparkFun](https://www.sparkfun.com/sparkfun-triple-axis-accelerometer-breakout-adxl362.html) that helped me make this schematic. I am going to be using this for majority of the interactions with the HackCharm. (speaking of I might change the name to something more interesting)
+
+I am still learning how to use KiCad since I only have experience with easyEDA, but I feel like I did a good amount of work today with the schematic.
+
+Also I figured out how to use a battery with the XIAO-ESP32-S3 from [their documentation](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/)
+![image](https://github.com/user-attachments/assets/66cee0a5-315c-48a8-ab82-c7252b831783)
+
+The one drawback is that you cant tell what the battery percentage is, so that is something I will have to work around.
+
+
+**Total time spent: 3h**
+
+# May 27th:
+![image](https://github.com/user-attachments/assets/34da7635-175e-4302-b9a0-6685d26598e1)
+
+So I had to change up my schematic because apparently the symbol/footprint I had for the accelerometer was kinda goofy. So I got a new one and I had to redo the schematic, which I think I spent around **1 hour** doing. 
+
+So after doing that I worked on the PCB itself!! this is my first time using KiCad so I dont know if I did this right but tada:
+
+![image](https://github.com/user-attachments/assets/16329d58-4848-4dc4-a271-25b75593ea1a)
+
+I manually routed all of the connections except for the ground line where I just made a copper fill for that. I had to be a bit creative with some of the routing especially around the adxl362.
+
+![image](https://github.com/user-attachments/assets/39a385f6-84a9-4db4-a213-d48312c58313)
+
+I have no idea if the routing I did is "legal" or if it works but I will research that more before I finalize this pcb!!! Right now I am bored with routing so I am gonna focus on the aesthetics aka SILKSCREEN ART!!!
+
+### UPDATE 2:
+
+I have spent the last 2 hours thinking up lore and cryptic messages that I can hide/involve with this project and its been really fun but since its not directly working on the hardware end of this project im not going to include it. But anyways there is gonna be some cool stuff involved!! 
+
+I have made a few documents of lore that I plan to hide in places around the project (like the pcb, flash memory etc). Obv I would really be the only person who would see this but who knows maybe one day I would try and sell this.
+
+**Total time spent: 4h**
+
+# May 28th: (DONE THE PCB!!! Moving on to 3d modelling)
+
+I spent over like 2 hours making silkscreen art (really like 30 minutes of making the art and then an hour and a half trying to figure out how to make it look nice in KiCad)
+
+Design:
+![image](https://github.com/user-attachments/assets/9ccd7ec5-0f88-4c79-9b60-1e85f425fa5f)
+
+Was trying to go for a made in a scifi lab vibes
+
+![image](https://github.com/user-attachments/assets/20b6f8fe-12ad-428c-9186-4c04907b7233)
+
+Tada!! this is what the back looks like :D
+
