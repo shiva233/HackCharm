@@ -119,9 +119,10 @@ Design:
 
 Was trying to go for a made in a scifi lab vibes
 
-![image](https://github.com/user-attachments/assets/20b6f8fe-12ad-428c-9186-4c04907b7233)
+![image](https://github.com/user-attachments/assets/575bd596-58ef-4e14-a149-045c796ae2e0)
 
 Tada!! this is what the back looks like :D
 
+**Total time spent: 1h**
 
 
