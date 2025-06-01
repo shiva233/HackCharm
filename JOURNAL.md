@@ -135,5 +135,10 @@ PUT THE CODE HERE AND DONT FORGET TO COMMIT THE SKETCH TO THE REPO LATER
 
 Now all I need to do is CAD the case for HackCharm and im done the design phase!!
 
+also bonus sketches:
+
+![image](https://github.com/user-attachments/assets/ac339692-70fe-449a-85dc-0bdaa39d6ccf)
+
+
 **Total time spent: 2h**
 
