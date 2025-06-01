@@ -125,4 +125,15 @@ Tada!! this is what the back looks like :D
 
 **Total time spent: 1h**
 
+# May 31
+
+![image](https://github.com/user-attachments/assets/899f5359-3983-40c7-ae91-70b02ef63c54)
+
+I wanted to write some code but since I dont have the components physically yet I used a simulator! Im still trying to figure some things out and I have no idea if it works but tada! below I have the code that makes HackCharm wake up on a shake:
+
+PUT THE CODE HERE AND DONT FORGET TO COMMIT THE SKETCH TO THE REPO LATER
+
+Now all I need to do is CAD the case for HackCharm and im done the design phase!!
+
+**Total time spent: 2h**
 
