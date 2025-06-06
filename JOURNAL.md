@@ -135,17 +135,10 @@ And then..., I realized the simulator with the above screenshot could not actual
 
 ![image](https://github.com/user-attachments/assets/7f91de0f-eb96-471e-bcea-e2e3991b6a6a)
 
-
-Im still trying to figure some things out and I have no idea if it works but tada! below I have the code that makes HackCharm display a lil face on its screen :D
-
 Here is the face I drew in Aseprite:
 
 ![image](https://github.com/user-attachments/assets/72afe30a-6a0a-4577-acfc-332dba80066b)
 
-
-Here is the simulator displaying the face!
-
-![image](https://github.com/user-attachments/assets/1a33e856-0fd0-4cd5-9785-dc142b0808e5)
 
 To make the image readable/displayable by the esp32/oled I had to convert it to Byte Arrays using this website: [image2cpp]([url](https://javl.github.io/image2cpp/))
 
@@ -153,11 +146,19 @@ To make the image readable/displayable by the esp32/oled I had to convert it to 
 
 **IMPORTANT:** When using image2cpp you must check the "swap" checkmark since we are using the u8g2 library   
 
+
+
+![image](https://github.com/user-attachments/assets/d2137b67-915b-48cd-9a71-16c2e9828eb6)
+
+Im still trying to figure some things out and I have no idea if it works but tada! below I have the code that makes HackCharm display a lil face on its screen :D
+
+Here is the simulator displaying the face!
+
+![image](https://github.com/user-attachments/assets/1a33e856-0fd0-4cd5-9785-dc142b0808e5)
+
 Im super excited because now the project feels like, extra real?? Finishing the PCB also made me feel kinda like this but this like a different version of that if it makes sense.
 
 **I have pushed this simulator version of the sketch to the [repo](HackCharm/sketch.ino), once I actually get the components and pcb I will work on the final version of the sketch (with accelerometer, button etc)**
-
-![image](https://github.com/user-attachments/assets/d2137b67-915b-48cd-9a71-16c2e9828eb6)
 
 Now all I need to do is CAD the case for HackCharm and im done the design phase!!
 
