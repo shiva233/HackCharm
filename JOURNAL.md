@@ -146,8 +146,6 @@ To make the image readable/displayable by the esp32/oled I had to convert it to 
 
 **IMPORTANT:** When using image2cpp you must check the "swap" checkmark since we are using the u8g2 library   
 
-
-
 ![image](https://github.com/user-attachments/assets/d2137b67-915b-48cd-9a71-16c2e9828eb6)
 
 Im still trying to figure some things out and I have no idea if it works but tada! below I have the code that makes HackCharm display a lil face on its screen :D
