@@ -121,24 +121,49 @@ Was trying to go for a made in a scifi lab vibes
 
 ![image](https://github.com/user-attachments/assets/575bd596-58ef-4e14-a149-045c796ae2e0)
 
-Tada!! this is what the back looks like :D
+Tada!! This is what the back looks like :D
 
 **Total time spent: 1h**
 
-# May 31
+# June 6th
 
 ![image](https://github.com/user-attachments/assets/899f5359-3983-40c7-ae91-70b02ef63c54)
 
-I wanted to write some code but since I dont have the components physically yet I used a simulator! Im still trying to figure some things out and I have no idea if it works but tada! below I have the code that makes HackCharm wake up on a shake:
+I wanted to write some code but since I dont have the components physically yet I used a [simulator!]([wowki.com](https://wokwi.com/)) 
 
-PUT THE CODE HERE AND DONT FORGET TO COMMIT THE SKETCH TO THE REPO LATER
+And then..., I realized the simulator with the above screenshot could not actually simulate the components so I used another one!! this time with just the display so I could focus on figuring that out:
+
+![image](https://github.com/user-attachments/assets/7f91de0f-eb96-471e-bcea-e2e3991b6a6a)
+
+
+Im still trying to figure some things out and I have no idea if it works but tada! below I have the code that makes HackCharm display a lil face on its screen :D
+
+Here is the face I drew in Aseprite:
+
+![image](https://github.com/user-attachments/assets/72afe30a-6a0a-4577-acfc-332dba80066b)
+
+
+Here is the simulator displaying the face!
+
+![image](https://github.com/user-attachments/assets/1a33e856-0fd0-4cd5-9785-dc142b0808e5)
+
+To make the image readable/displayable by the esp32/oled I had to convert it to Byte Arrays using this website: [image2cpp]([url](https://javl.github.io/image2cpp/))
+
+![image](https://github.com/user-attachments/assets/efc9dde7-778d-414a-bc2d-170dd4981227)
+
+**IMPORTANT:** When using image2cpp you must check the "swap" checkmark since we are using the u8g2 library   
+
+Im super excited because now the project feels like, extra real?? Finishing the PCB also made me feel kinda like this but this like a different version of that if it makes sense.
+
+**I have pushed this simulator version of the sketch to the [repo](HackCharm/sketch.ino), once I actually get the components and pcb I will work on the final version of the sketch (with accelerometer, button etc)**
+
+![image](https://github.com/user-attachments/assets/d2137b67-915b-48cd-9a71-16c2e9828eb6)
 
 Now all I need to do is CAD the case for HackCharm and im done the design phase!!
 
 also bonus sketches:
 
 ![image](https://github.com/user-attachments/assets/ac339692-70fe-449a-85dc-0bdaa39d6ccf)
-
 
 **Total time spent: 2h**
 
