@@ -166,3 +166,22 @@ also bonus sketches:
 
 **Total time spent: 2h**
 
+# June 7th
+
+
+I decided to reroute the PCB after moving the esp32 up so that the usb-c port could be accessed more easily
+
+Before: 
+![image](https://github.com/user-attachments/assets/ea84430f-c7e4-40d5-b32e-51a8a6799e7b)
+
+After:
+![image](https://github.com/user-attachments/assets/37b8401c-6994-4eab-a3c4-d9b50d3ffac8)
+
+
+Turns out that top part of the footprint IS supposed to be outside the PCB so the USB-C port is accessible. U can see it in this 3d model !!
+
+![image](https://github.com/user-attachments/assets/80a52c1b-d74c-4db8-891a-7f84c715bfe4)
+
+![image](https://github.com/user-attachments/assets/4750a183-8f86-442a-a4f9-7b841e2be54f)
+
+**Total time spent: 1h **
