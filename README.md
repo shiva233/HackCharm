@@ -10,6 +10,7 @@ A tiny circular keychain with a pixelated face on an OLED that reacts to taps/sh
 | Accelerometer (not found yet)              | Input      |        |       |
 | Rechargeable Li-po Battery (not found yet) | Power      |        |       |
 
+
 # Hack-Charm Devlog / Creation Journal
 
 # May 22nd: Planning/Designing on my notebook!
@@ -171,4 +172,27 @@ also bonus sketches:
 
 **Total time spent: 2h**
 
+# June 7th
 
+
+I decided to reroute the PCB after moving the esp32 up so that the usb-c port could be accessed more easily
+
+Before: 
+![image](https://github.com/user-attachments/assets/ea84430f-c7e4-40d5-b32e-51a8a6799e7b)
+
+After:
+![image](https://github.com/user-attachments/assets/37b8401c-6994-4eab-a3c4-d9b50d3ffac8)
+
+
+Turns out that top part of the footprint IS supposed to be outside the PCB so the USB-C port is accessible. U can see it in this 3d model !!
+
+![image](https://github.com/user-attachments/assets/80a52c1b-d74c-4db8-891a-7f84c715bfe4)
+
+![image](https://github.com/user-attachments/assets/4750a183-8f86-442a-a4f9-7b841e2be54f)
+
+Update: I have also started to work on the CAD model!! I am still learning fusion360 so I dont know a lot of things but here is my progress so far:
+
+![image](https://github.com/user-attachments/assets/4d55491b-0c7a-49eb-8a2a-12410369172c)
+
+
+**Total time spent: 2h**
