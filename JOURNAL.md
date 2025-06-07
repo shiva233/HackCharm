@@ -184,4 +184,9 @@ Turns out that top part of the footprint IS supposed to be outside the PCB so th
 
 ![image](https://github.com/user-attachments/assets/4750a183-8f86-442a-a4f9-7b841e2be54f)
 
-**Total time spent: 1h**
+Update: I have also started to work on the CAD model!! I am still learning fusion360 so I dont know a lot of things but here is my progress so far:
+
+![image](https://github.com/user-attachments/assets/4d55491b-0c7a-49eb-8a2a-12410369172c)
+
+
+**Total time spent: 2h**
