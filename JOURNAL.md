@@ -184,4 +184,4 @@ Turns out that top part of the footprint IS supposed to be outside the PCB so th
 
 ![image](https://github.com/user-attachments/assets/4750a183-8f86-442a-a4f9-7b841e2be54f)
 
-**Total time spent: 1h **
+**Total time spent: 1h**
