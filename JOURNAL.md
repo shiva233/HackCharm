@@ -312,4 +312,10 @@ I LOCKED IN!! I remade the entire pcb RAHHH
 ![image](https://github.com/user-attachments/assets/3be39cb3-cc19-4ea0-be70-7af098112e28)
 
 
+and no DRC errors baby lets go!
+
+![image](https://github.com/user-attachments/assets/ae30869e-763b-4378-bbfc-bd87d46deee8)
+
+Now I gotta upload this to jlc pcb and hope nothing goes wrong!
+
 This took me **0.5 hours**
