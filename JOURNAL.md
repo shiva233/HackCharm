@@ -7,6 +7,10 @@ created_at: "2025-05-22"
 
 # Hack-Charm Devlog / Creation Journal
 
+
+## Total Hours spent on Design Phase: 25 Hours
+
+
 # May 22nd: Planning/Designing on my notebook!
 
 **Hi hi!! Today, I spent the majority of my day planning out HackCharm!! It is basically a no-maintenance little Tamagotchi-type thing that lives on your keychain and displays adorable faces on its screen. It will also react to stuff like tapping, shaking, or pressing a button!!**
