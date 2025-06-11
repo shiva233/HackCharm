@@ -5,7 +5,7 @@ description: "HackCharm is a tiny, keychain-sized pixel buddy that lives on your
 created_at: "2025-05-22"
 ---
 
-# Hack-Charm Devlog / Creation Journal
+# HackCharm Devlog / Creation Journal
 
 
 ## Total Hours spent on Design Phase: 25 Hours
