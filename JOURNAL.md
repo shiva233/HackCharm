@@ -330,20 +330,23 @@ Look at that price difference wow! This was all worth it :D
 
 With that I can make the final BOM:
 
+### BOM
+
 |**Item**|**Purpose**                     |**Source**|**Price (CAD)**                                 |
 |----|-----------------------------|------|---------------------------------------------|
-|Xiao-ESP32-S3|Controller                   |[AliExpress]([url](https://a.aliexpress.com/_mr6FPuF))|$11.08                                       |
-|128x128 OLED Display|Output                       |[AliExpress]([url](https://a.aliexpress.com/_mNI13Ir))|$8.44                                        |
-|GY-362 ADXL362 Accelerometer|Input                        |[AliExpress]([url](https://www.aliexpress.us/item/1005007113522695.html?spm=a2g0o.productlist.main.1.41835e6cqzVJ25&algo_pvid=fee97835-5e5c-4af8-af68-d18792b41281&algo_exp_id=fee97835-5e5c-4af8-af68-d18792b41281-0&pdp_ext_f=%7B%22order%22%3A%2216%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%213.55%213.55%21%21%2118.22%2118.22%21%402101effb17496335958893809e6e64%2112000039448744636%21sea%21CA%210%21ABX&curPageLogUid=qWPVdHTwuQrT&utparam-url=scene%3Asearch%7Cquery_from%3A))|$5.35                                        |
-|2.54mm Headers |Connector                    |[AliExpress]([url](https://www.aliexpress.us/item/3256805470972472.html?spm=a2g0o.cart.0.0.624538daxjmIoN&mp=1&pdp_npi=5%40dis!CAD!CAD%203.12!CAD%203.12!!CAD%203.12!!!%402103244417496191960858421e5267!12000033913162578!ct!US!4143424543!!1!0&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D&gatewayAdapt=glo2usa))|$3.43                                        |
-|2.54mm Headers (Right Angle)|Connector                    |[AliExpress]([url](https://www.aliexpress.us/item/32980998451.html?spm=a2g0o.productlist.main.16.1e206f5diQ6mzC&aem_p4p_detail=202506110216214608937190897820001237152&algo_pvid=1bfe327d-1faf-4c35-8583-72ae0c25e16f&algo_exp_id=1bfe327d-1faf-4c35-8583-72ae0c25e16f-15&pdp_ext_f=%7B%22order%22%3A%22226%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%212.42%211.72%21%21%211.73%211.23%21%402101c67a17496333817923185ec293%2112000036953272482%21sea%21CA%210%21ABX&curPageLogUid=yeAT6i39rNGo&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202506110216214608937190897820001237152_5))|$2.60                                        |
-|TS-1088 Button|Input                        |JLCPCB (PCBA)|$5.77                                        |
-|PCB |PCB                          |JLCPCB|   ----                                          |
+|Xiao-ESP32-S3|Controller                   |AliExpress([Link](https://a.aliexpress.com/_mr6FPuF))|$11.08                                       |
+|128x128 OLED Display|Output                       |AliExpress([Link](https://a.aliexpress.com/_mNI13Ir))|$8.44                                        |
+|GY-362 ADXL362 Accelerometer|Input                        |AliExpress([Link](https://www.aliexpress.us/item/1005007113522695.html?spm=a2g0o.productlist.main.1.41835e6cqzVJ25&algo_pvid=fee97835-5e5c-4af8-af68-d18792b41281&algo_exp_id=fee97835-5e5c-4af8-af68-d18792b41281-0&pdp_ext_f=%7B%22order%22%3A%2216%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%213.55%213.55%21%21%2118.22%2118.22%21%402101effb17496335958893809e6e64%2112000039448744636%21sea%21CA%210%21ABX&curPageLogUid=qWPVdHTwuQrT&utparam-url=scene%3Asearch%7Cquery_from%3A))|$5.35                                        |
+|2.54mm Headers |Connector                    |AliExpress([Link](https://www.aliexpress.us/item/3256805470972472.html?spm=a2g0o.cart.0.0.624538daxjmIoN&mp=1&pdp_npi=5%40dis!CAD!CAD%203.12!CAD%203.12!!CAD%203.12!!!%402103244417496191960858421e5267!12000033913162578!ct!US!4143424543!!1!0&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D&gatewayAdapt=glo2usa))|$3.43                                        |
+|2.54mm Headers (Right Angle)|Connector                    |AliExpress([Link](https://www.aliexpress.us/item/32980998451.html?spm=a2g0o.productlist.main.16.1e206f5diQ6mzC&aem_p4p_detail=202506110216214608937190897820001237152&algo_pvid=1bfe327d-1faf-4c35-8583-72ae0c25e16f&algo_exp_id=1bfe327d-1faf-4c35-8583-72ae0c25e16f-15&pdp_ext_f=%7B%22order%22%3A%22226%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%212.42%211.72%21%21%211.73%211.23%21%402101c67a17496333817923185ec293%2112000036953272482%21sea%21CA%210%21ABX&curPageLogUid=yeAT6i39rNGo&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202506110216214608937190897820001237152_5))|$2.60                                        |
+|TS-1088 Button|Input                        |JLCPCB (PCBA)|        ----                                |
+|PCB |PCB                          |JLCPCB|   $5.77                                          |
 |LI-PO Battery 3.7v 450mAh|Power                        |Self-Sourced|$12.99                                       |
 |3D Printed Casing|Housing                      |Self-Sourced|$0.00                                        |
 |**Total (CAD)**|       ----                      |   ----   |**$49.66**                                      |
 |**Total (USD)**|           ----                  |   ----   |**$36.25**                                       |
 
+**Total time spent: 3h**
 
 Which means...
 
