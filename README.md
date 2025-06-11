@@ -1,198 +1,23 @@
 # HackCharm
 A tiny circular keychain with a pixelated face on an OLED that reacts to taps/shakes to change its expression. It is basically a cute interactive keychain!!
 
-### BOM (in progress)
-| Item                                       | Purpose    | Source | Price |
-|--------------------------------------------|------------|--------|-------|
-| Xiao-ESP32-S3                              | Controller |        |       |
-| SSD1306 OLED Display                       | Screen     |        |       |
-| Button (not found yet)                     | Input      |        |       |
-| Accelerometer (not found yet)              | Input      |        |       |
-| Rechargeable Li-po Battery (not found yet) | Power      |        |       |
 
+### 3D Model:
 
-# Hack-Charm Devlog / Creation Journal
+![image](https://github.com/user-attachments/assets/60be6617-ccea-4f78-b61b-7c2dc0e006e6)
 
-# May 22nd: Planning/Designing on my notebook!
 
-**Hi hi!! Today, I spent the majority of my day planning out HackCharm!! It is basically a no-maintenance little Tamagotchi-type thing that lives on your keychain and displays adorable faces on its screen. It will also react to stuff like tapping, shaking, or pressing a button!!**
+### Wiring Diagram: (Everything but the screen and battery are on the PCB!
+![image](https://github.com/user-attachments/assets/8a4f430f-c54a-4c7f-9d0d-814249a0308f)
 
-I have a scan of my planning page in my notebook that I will explain:
+### PCB Schematic:
+![image](https://github.com/user-attachments/assets/05167780-f24b-49b9-a0ba-2d0a1061eb8a)
 
-![image](https://github.com/user-attachments/assets/e1e8352f-564e-4c1e-8981-4ad7a2d6b855)
+### PCB:
 
-### Design (The sketches): 
-- Basically the design is pretty much shaped like a pocket watch but without the chain and the watch face is a little screen with an adorable face on it!!
-- Back: The back would have some logo or symbol engraved (right now I'm debating between HC (for hack club or hack charm) or a smiley face :D)
-- The back also has a button on it for controls.
+![image](https://github.com/user-attachments/assets/7231e931-f0b3-4fd0-9fcf-b51ca25aa766)
 
-### Tech / Circuitry
+![image](https://github.com/user-attachments/assets/0c0a2e78-016f-4b3e-b8e3-0fd66c67c3c3)
 
-- HackCharm will be controlled with an **Xiao-ESP32-S3**
-- It will be connected to an SSD1306 OLED Display Module
-- The back of your HackCharm will have a button for some additional controls
-- Your HackCharm will have an accelerometer (haven't found a specific one yet) to detect shaking and tapping
-- Your HackCharm will have a rechargeable battery built in (haven't found a specific one yet). 
-- Your HackCharm can be charged through a USB-C port on the bottom.
-- Wiring!! Not everything is laid out yet, but basically for the Display it will be as follows: 
+![image](https://github.com/user-attachments/assets/20c89ff1-1b6c-46f9-a6a4-6898f2dfe2c4)
 
-| Display Pin    | Xiao-ESP32-S3 |
-| -------------- | ------------- |
-| GND            | GND           |
-| VCC            | 3.3V          |
-| SCL            | D5            |
-| SDA            | D4            |
-
-- During this design phase, I completely forgot to think about the battery, and I still need to figure out how to implement that!!
- 
-### Faces / Expressions!
-
-I want the faces and expressions to be triggered by a few different things, such as shaking, tapping, pressing the button, etc. But at a bare minimum, I want a cute idle animation and a "woken up" animation. I have a few sketches on potential face designs in the picture as well :D
-
-### Build
- 
-On the top-right, you can see a sketch of how the build is going to look like, basically it's gonna be a PCB sandwiched between two 3d printed shells!! :D
-
-### PCB
-
-I laid out the basic layout for the PCB. Basically, the main points are:
-- The Display and its pins will be on the front side of the PCB
-- Everything else would be on the back, including the Xiao-ESP32-S3.
-- I realized later that the ESP32-S3 needs to be near the top or bottom of the PCB so there is access to the USB-C port.
-- I'm not really sure yet how I'm gonna maneuver the battery into all of this because the ESP32 has two SMD Pads for battery connections, and I'm not sure how to maneuver the ESP32 to solder the battery onto it while it's on the PCB or even connect those pads to the PCB.
-
-### RAAAAA I'm SUPER EXCITED TO KEEP WORKING ON THIS!!
-
-That is pretty much it for today. tmrw I will work on trying to make the circuit in a simulator so I can start PCB design :D
-
-Other things that need to be done:
-- Designing cute faces in Aesprite
-- Learn the basics of KiCad since I have only used EasyEDA so far
-- Make the PCB!!
-- Model the enclosure/shells
-- Make a logo/banner (gonna be inspired by AirTag promotional material since it would be a similar shape)
-
-**Total time spent: 5h (spread across the day)**
-
-# May 25-26th: Identified the rest of the components and completed the schematic!
-
-TADA here is the schematic:
-![image](https://github.com/user-attachments/assets/a31f697f-1793-4e53-af15-264d5255bcc2)
-
-It is not really clean because I am not good at making schematics (yet!! I will clean it up later).
-
-But as you can see we have chosen an accelerometer! I chose the adxl362 and I found [a breakout board from SparkFun](https://www.sparkfun.com/sparkfun-triple-axis-accelerometer-breakout-adxl362.html) that helped me make this schematic. I am going to be using this for majority of the interactions with the HackCharm. (speaking of I might change the name to something more interesting)
-
-I am still learning how to use KiCad since I only have experience with easyEDA, but I feel like I did a good amount of work today with the schematic.
-
-Also I figured out how to use a battery with the XIAO-ESP32-S3 from [their documentation](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/)
-![image](https://github.com/user-attachments/assets/66cee0a5-315c-48a8-ab82-c7252b831783)
-
-The one drawback is that you cant tell what the battery percentage is, so that is something I will have to work around.
-
-
-**Total time spent: 3h**
-
-# May 27th:
-![image](https://github.com/user-attachments/assets/34da7635-175e-4302-b9a0-6685d26598e1)
-
-So I had to change up my schematic because apparently the symbol/footprint I had for the accelerometer was kinda goofy. So I got a new one and I had to redo the schematic, which I think I spent around **1 hour** doing. 
-
-So after doing that I worked on the PCB itself!! this is my first time using KiCad so I dont know if I did this right but tada:
-
-![image](https://github.com/user-attachments/assets/16329d58-4848-4dc4-a271-25b75593ea1a)
-
-I manually routed all of the connections except for the ground line where I just made a copper fill for that. I had to be a bit creative with some of the routing especially around the adxl362.
-
-![image](https://github.com/user-attachments/assets/39a385f6-84a9-4db4-a213-d48312c58313)
-
-I have no idea if the routing I did is "legal" or if it works but I will research that more before I finalize this pcb!!! Right now I am bored with routing so I am gonna focus on the aesthetics aka SILKSCREEN ART!!!
-
-### UPDATE 2:
-
-I have spent the last 2 hours thinking up lore and cryptic messages that I can hide/involve with this project and its been really fun but since its not directly working on the hardware end of this project im not going to include it. But anyways there is gonna be some cool stuff involved!! 
-
-I have made a few documents of lore that I plan to hide in places around the project (like the pcb, flash memory etc). Obv I would really be the only person who would see this but who knows maybe one day I would try and sell this.
-
-**Total time spent: 4h**
-
-# May 28th: (DONE THE PCB!!! Moving on to 3d modelling)
-
-I spent over like 2 hours making silkscreen art (really like 30 minutes of making the art and then an hour and a half trying to figure out how to make it look nice in KiCad)
-
-Design:
-![image](https://github.com/user-attachments/assets/9ccd7ec5-0f88-4c79-9b60-1e85f425fa5f)
-
-Was trying to go for a made in a scifi lab vibes
-
-![image](https://github.com/user-attachments/assets/575bd596-58ef-4e14-a149-045c796ae2e0)
-
-Tada!! This is what the back looks like :D
-
-**Total time spent: 1h**
-
-# June 6th
-
-![image](https://github.com/user-attachments/assets/899f5359-3983-40c7-ae91-70b02ef63c54)
-
-I wanted to write some code but since I dont have the components physically yet I used a [simulator!]([wowki.com](https://wokwi.com/)) 
-
-And then..., I realized the simulator with the above screenshot could not actually simulate the components so I used another one!! this time with just the display so I could focus on figuring that out:
-
-![image](https://github.com/user-attachments/assets/7f91de0f-eb96-471e-bcea-e2e3991b6a6a)
-
-Here is the face I drew in Aseprite:
-
-![image](https://github.com/user-attachments/assets/72afe30a-6a0a-4577-acfc-332dba80066b)
-
-
-To make the image readable/displayable by the esp32/oled I had to convert it to Byte Arrays using this website: [image2cpp]([url](https://javl.github.io/image2cpp/))
-
-![image](https://github.com/user-attachments/assets/efc9dde7-778d-414a-bc2d-170dd4981227)
-
-**IMPORTANT:** When using image2cpp you must check the "swap" checkmark since we are using the u8g2 library   
-
-![image](https://github.com/user-attachments/assets/d2137b67-915b-48cd-9a71-16c2e9828eb6)
-
-Im still trying to figure some things out and I have no idea if it works but tada! below I have the code that makes HackCharm display a lil face on its screen :D
-
-Here is the simulator displaying the face!
-
-![image](https://github.com/user-attachments/assets/1a33e856-0fd0-4cd5-9785-dc142b0808e5)
-
-Im super excited because now the project feels like, extra real?? Finishing the PCB also made me feel kinda like this but this like a different version of that if it makes sense.
-
-**I have pushed this simulator version of the sketch to the [repo](HackCharm/sketch.ino), once I actually get the components and pcb I will work on the final version of the sketch (with accelerometer, button etc)**
-
-Now all I need to do is CAD the case for HackCharm and im done the design phase!!
-
-also bonus sketches:
-
-![image](https://github.com/user-attachments/assets/ac339692-70fe-449a-85dc-0bdaa39d6ccf)
-
-**Total time spent: 2h**
-
-# June 7th
-
-
-I decided to reroute the PCB after moving the esp32 up so that the usb-c port could be accessed more easily
-
-Before: 
-![image](https://github.com/user-attachments/assets/ea84430f-c7e4-40d5-b32e-51a8a6799e7b)
-
-After:
-![image](https://github.com/user-attachments/assets/37b8401c-6994-4eab-a3c4-d9b50d3ffac8)
-
-
-Turns out that top part of the footprint IS supposed to be outside the PCB so the USB-C port is accessible. U can see it in this 3d model !!
-
-![image](https://github.com/user-attachments/assets/80a52c1b-d74c-4db8-891a-7f84c715bfe4)
-
-![image](https://github.com/user-attachments/assets/4750a183-8f86-442a-a4f9-7b841e2be54f)
-
-Update: I have also started to work on the CAD model!! I am still learning fusion360 so I dont know a lot of things but here is my progress so far:
-
-![image](https://github.com/user-attachments/assets/4d55491b-0c7a-49eb-8a2a-12410369172c)
-
-
-**Total time spent: 2h**
