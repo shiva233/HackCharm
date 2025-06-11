@@ -210,7 +210,7 @@ Now all I need to figure out is how to make a usb-c cutout and make a lid for th
 
 **Note: I am inexperienced with Fusion360 and CAD in general so the methods I used may be unorthodox and are usually just me guessing/experimenting on my own. By no means are these best practices**
 
-UPDATE:
+UPDATE 1:
 
 ![image](https://github.com/user-attachments/assets/9d3d078d-fa3a-4bfe-90a4-7000745d9dc9)
 
@@ -218,5 +218,40 @@ Added the cutout for the USB-C cable to go through! I did this by making a recta
 
 Next I will add the keychain hook!
 
-Update:
+UPDATE 2:
 
+![image](https://github.com/user-attachments/assets/ba3ae7fc-1c12-479a-a44a-04473ce40d84)
+
+Made a sketch for the hook, not sure if this is the most optimal way but based on what I know about using fusion360 so far this is how I would go about it.
+
+I went to my original sketch on the plane where I made the actual frame it self, and I added a circle to the end of one side for the hook and made half of it inside and half of it outside, and then I gave that circle an offset of 2mm for the thickness of the hook.
+
+![image](https://github.com/user-attachments/assets/23d1f1cb-1878-4e88-b99d-087476c664ec)
+
+It worked!! but oops the hook in relation to the usb-c cutout is in a weird spot, so I will change it in the sketch!!
+
+Tada new sketch:
+
+![image](https://github.com/user-attachments/assets/199b1c37-de24-4012-8e31-25ec28d732fa)
+
+
+And this is what it looks like after extrusion:
+
+![image](https://github.com/user-attachments/assets/59d202c3-e15d-4392-9bb8-67997e4198d9)
+
+So I'm basically done with everything except for the lid!! (this is the part I have no idea how to do so I need to do some googling and or watch youtube videos on it).
+
+UPDATE 3:
+
+So I have not yet made the lid butttt I have made it look slightly nicer by messing with fillets to round the edges on the frame, hook, and screen cutout!
+
+Before:
+
+![image](https://github.com/user-attachments/assets/8d910c7e-68e3-4f8a-bec9-ed47e2272505)
+
+
+After:
+
+![image](https://github.com/user-attachments/assets/fb6e7960-43b3-48d7-ba18-f87b75756452)
+
+**Total time spent: 3h**
