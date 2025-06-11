@@ -254,4 +254,11 @@ After:
 
 ![image](https://github.com/user-attachments/assets/fb6e7960-43b3-48d7-ba18-f87b75756452)
 
-**Total time spent: 3h**
+UPDATE 4:
+
+I still have not made the lid! but look! I made a lil orthographic drawing thingy for the model!!
+
+![image](https://github.com/user-attachments/assets/eae0dfcc-f628-4293-aa6b-940ce24b5ebd)
+
+
+**Total time spent: 4h**
