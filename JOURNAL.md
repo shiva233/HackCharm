@@ -261,4 +261,29 @@ I still have not made the lid! but look! I made a lil orthographic drawing thing
 ![image](https://github.com/user-attachments/assets/eae0dfcc-f628-4293-aa6b-940ce24b5ebd)
 
 
-**Total time spent: 4h**
+**Total time spent: 5h**
+
+# June 11th - GREAT MISFORTUNE
+
+
+**Bad News:**
+Sooo as it turns out I CANT GET MY ACCELEROMETER ASSEMBLED BY JLC PCB WITHOUT DOING STANDARD ASSEMBLY
+
+And I dont want to do standard assembly because:
+- it costs 50 dollars,
+- it FORCES me to make my board twice as big
+- and it forces me to add edge rails to my board
+
+
+**Good News:**
+
+I can replace the ADXL362 Chip with a breakout board I found on aliexpress and through-hole solder that onto my PCB!
+
+The breakout board:
+![image](https://github.com/user-attachments/assets/739b69ef-8aaf-494e-b958-6ebc73dd74e3)
+
+Unfortunately, this means I will have to pretty much restart my PCB and learn how to make a custom footprint for the breakout board to plug into, but how hard could that be right??
+
+
+
+
