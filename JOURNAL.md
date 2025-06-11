@@ -267,6 +267,10 @@ I still have not made the lid! but look! I made a lil orthographic drawing thing
 
 
 **Bad News:**
+
+![image](https://github.com/user-attachments/assets/f8352acd-974f-4a64-a82b-7795514fd885)
+
+
 Sooo as it turns out I CANT GET MY ACCELEROMETER ASSEMBLED BY JLC PCB WITHOUT DOING STANDARD ASSEMBLY
 
 And I dont want to do standard assembly because:
