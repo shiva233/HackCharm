@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,PinSocket_1x04_P2.54mm_Horizontal,1,Display Connector,
+SW1,SW_TS-1088-AR02016,1,BUTTON,C720477
+U1,XIAO-ESP32S3-DIP,1,XIAO-ESP32-S3-DIP,
+U2,breakoutADXL,1,~,
