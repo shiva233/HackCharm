@@ -243,7 +243,7 @@ So I'm basically done with everything except for the lid!! (this is the part I h
 
 UPDATE 3:
 
-So I have not yet made the lid butttt I have made it look slightly nicer by messing with fillets to round the edges on the frame, hook, and screen cutout!
+Im done!! and I have made it look slightly nicer by messing with fillets to round the edges on the frame, hook, and screen cutout!
 
 Before:
 
@@ -256,7 +256,7 @@ After:
 
 UPDATE 4:
 
-I still have not made the lid! but look! I made a lil orthographic drawing thingy for the model!!
+look! I made a lil orthographic drawing thingy for the model!!
 
 ![image](https://github.com/user-attachments/assets/eae0dfcc-f628-4293-aa6b-940ce24b5ebd)
 
