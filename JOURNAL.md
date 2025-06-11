@@ -288,7 +288,7 @@ The breakout board:
 
 Unfortunately, this means I will have to pretty much restart my PCB and learn how to make a custom footprint for the breakout board to plug into, but how hard could that be right??
 
-UPDATE 1:
+### UPDATE 1:
 
 I have made my own symbol and footprint for the breakout board from aliexpress:
 
@@ -301,3 +301,15 @@ And I have updated the schematic with the breakout board. I also removed the dec
 
 ![image](https://github.com/user-attachments/assets/02687a38-02f6-479b-8af2-51f51816c2f0)
 
+### UPDATE 2:
+
+I LOCKED IN!! I remade the entire pcb RAHHH
+
+![image](https://github.com/user-attachments/assets/dec13835-8def-4a88-8a30-70fbd0f3c82a)
+
+![image](https://github.com/user-attachments/assets/4f720d83-9f7d-4cb7-ad08-1ff185551a1e)
+
+![image](https://github.com/user-attachments/assets/3be39cb3-cc19-4ea0-be70-7af098112e28)
+
+
+This took me **0.5 hours**
