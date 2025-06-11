@@ -206,4 +206,17 @@ Sketch:
 
 Basically, what I did is make a square cut out into a circle and then like a rectangular slot behind it. Basically what im trying to do is have a square screen on the final product while using a rectangular screen!!
 
-Now all I need to figure out is how to make a usb-c cutout and make a lid for this. Oh and the keychain slot!!
+Now all I need to figure out is how to make a usb-c cutout and make a lid for this. Oh, and the keychain slot!!
+
+**Note: I am inexperienced with Fusion360 and CAD in general so the methods I used may be unorthodox and are usually just me guessing/experimenting on my own. By no means are these best practices**
+
+UPDATE:
+
+![image](https://github.com/user-attachments/assets/9d3d078d-fa3a-4bfe-90a4-7000745d9dc9)
+
+Added the cutout for the USB-C cable to go through! I did this by making a rectangular sketch of 6mm by 10mm (I straight up just measured my USB-C cable with callipers and added a few mm for safety!!) then I extruded it backwards to make the cutout :D
+
+Next I will add the keychain hook!
+
+Update:
+
