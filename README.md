@@ -1,6 +1,11 @@
 # HackCharm
-A tiny circular keychain with a pixelated face on an OLED that reacts to taps/shakes to change its expression. It is basically a cute interactive keychain!!
 
+## What is HackCharm???
+HackCharm is a tiny, keychain pixel buddy that lives on your back or your keys and lights up with cute little faces! It reacts to your taps, shakes, and other movements. It shows different emotions on its screen depending on how you interact with it. It's powered by an Xiao ESP32, a custom PCB, and lives inside a 3d printed shell! To sum it up HackCharm is a decorative and interactive no-maintenance tomagotchi mixed with a sci-fi gadget. :D
+
+## Why did I make it?
+
+I made HackCharm because I really just wanted to build something fun and full of personality! This project lets me bring all my favourite parts about building and tinkering together into this little cute device that I could carry around that can make me (and maybe other people too!!) smile every time I looked at it.  
 
 ### 3D Model:
 
