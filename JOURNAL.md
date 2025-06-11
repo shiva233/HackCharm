@@ -190,3 +190,20 @@ Update: I have also started to work on the CAD model!! I am still learning fusio
 
 
 **Total time spent: 2h**
+
+# June 10th
+
+AAAA ITS EXAM WEEK IM SCARED, so I work on this to distract myself.
+
+Restarted the cad model cuz the previous one was kinda stinky:
+
+![image](https://github.com/user-attachments/assets/91694027-de50-45f1-b312-46660320cd81)
+
+Progress so far!! 
+
+Sketch:
+![image](https://github.com/user-attachments/assets/e0abdea3-ac84-422f-9492-04daa4e2504f)
+
+Basically, what I did is make a square cut out into a circle and then like a rectangular slot behind it. Basically what im trying to do is have a square screen on the final product while using a rectangular screen!!
+
+Now all I need to figure out is how to make a usb-c cutout and make a lid for this. Oh and the keychain slot!!
