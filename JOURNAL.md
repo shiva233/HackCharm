@@ -288,6 +288,16 @@ The breakout board:
 
 Unfortunately, this means I will have to pretty much restart my PCB and learn how to make a custom footprint for the breakout board to plug into, but how hard could that be right??
 
+UPDATE 1:
 
+I have made my own symbol and footprint for the breakout board from aliexpress:
 
+![image](https://github.com/user-attachments/assets/7563137d-1de2-481e-997f-51adad80db4e)
+![image](https://github.com/user-attachments/assets/88b3583f-902b-4314-b440-15051409f3be)
+
+**This took me 1.5 hours**
+
+And I have updated the schematic with the breakout board. I also removed the decoupling cap from the old schematic since it is no longer needed.
+
+![image](https://github.com/user-attachments/assets/02687a38-02f6-479b-8af2-51f51816c2f0)
 
