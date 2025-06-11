@@ -1,0 +1,12 @@
+Item,Purpose,Source,Price (CAD)
+Xiao-ESP32-S3,Controller,AliExpress,$11.08
+128x128 OLED Display,Output,AliExpress,$8.44
+GY-362 ADXL362 Accelerometer,Input,AliExpress,$5.35
+2.54mm Headers ,Connector,AliExpress,$3.43
+2.54mm Headers (Right Angle),Connector,AliExpress,$2.60
+TS-1088 Button,Input,JLCPCB (PCBA),$5.77
+PCB,PCB,JLCPCB,
+LI-PO Battery 3.7v 450mAh,Power,Self-Sourced,$12.99
+3D Printed Casing,Housing,Self-Sourced,$0.00
+Total (CAD),,,$49.66
+Total (USD),,,$36.25
