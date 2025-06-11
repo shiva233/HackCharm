@@ -15,9 +15,8 @@ A tiny circular keychain with a pixelated face on an OLED that reacts to taps/sh
 
 ### PCB:
 
-![image](https://github.com/user-attachments/assets/7231e931-f0b3-4fd0-9fcf-b51ca25aa766)
+![image](https://github.com/user-attachments/assets/e22d347e-5617-426c-8254-703f25bf74f0)
 
-![image](https://github.com/user-attachments/assets/0c0a2e78-016f-4b3e-b8e3-0fd66c67c3c3)
+![image](https://github.com/user-attachments/assets/215260bb-b041-460a-9170-50746c275d3f)
 
-![image](https://github.com/user-attachments/assets/20c89ff1-1b6c-46f9-a6a4-6898f2dfe2c4)
-
+![image](https://github.com/user-attachments/assets/2992bb9d-a93a-40bc-857b-63156cadb17d)
