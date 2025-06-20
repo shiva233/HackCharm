@@ -30,6 +30,11 @@ I made HackCharm because I really just wanted to build something fun and full of
 ![image](https://github.com/user-attachments/assets/2992bb9d-a93a-40bc-857b-63156cadb17d)
 
 
+### Simulating some Firmware!
+
+![image](https://github.com/user-attachments/assets/f1a5eea9-8b90-4233-9f8b-234e290ebe85)
+
+
 ### BOM
 
 |**Item**|**Purpose**                     |**Source**|**Price (CAD)**                                 |
