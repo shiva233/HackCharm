@@ -1,4 +1,5 @@
 # HackCharm
+![hackcharm1](https://github.com/user-attachments/assets/0f5f2d32-f441-41b5-a7b8-b7f0d974254a)
 
 ![image](https://github.com/user-attachments/assets/ac339692-70fe-449a-85dc-0bdaa39d6ccf)
 
