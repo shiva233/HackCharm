@@ -359,8 +359,30 @@ Which means...
 
 # June 28th - THE PARTS HAVE ARRIVED MWEHEHE
 
-yap yappp yappity yap yap yaup
+![image](https://github.com/user-attachments/assets/7dcc5d46-97bb-4d5e-97a6-08f253861383)
 
+IM SUPER EXCITED CUZ ALL OF THE PARTS ARE HERE AND NOW I CAN START BUILDING IT YIPPEEE
+
+Update 1:
+
+Everything has been soldered!! I inhaled a lot of yummy solder fumes (dont do this I just did not lock in with my ventilation)
+
+Update 2:
+
+YEYSYSYSY YESS I GOT A FACE TO SHOW UP ON THE SCREEN!! THAT MEANS MY PCB WORKS AND I DIDNT FUCK UP YAYYYYYYYYYYY
+
+
+![image](https://github.com/user-attachments/assets/a683bc1d-2bda-4237-9c8b-d51185638dd4)
+
+I am very proud of myself!!
+
+here is a pic of it in the case :0
+
+![image](https://github.com/user-attachments/assets/ae8f1bfa-1b8c-426e-8ad6-850d878068b8)
+
+I did notice however some problems in the case: the tolerances for the oled display hole, the location of the keychain hook, and usbc port.
+
+I will be changing these things and reprint tmrw!!
 
 # June 29th - Mostly worked on the magazine page today :0
 
