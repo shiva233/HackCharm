@@ -10,9 +10,10 @@ _**HackCharm**_ is a tiny, keychain pixel buddy that lives on your back or your 
 
 ## Why did I make it?
 
+I made HackCharm because I really just wanted to build something fun and full of personality! This project lets me bring all my favourite parts about building and tinkering together into this little cute device that I could carry around that can make me (and maybe other people too!!) smile every time I looked at it.  
+
 ![image](https://github.com/user-attachments/assets/ac339692-70fe-449a-85dc-0bdaa39d6ccf)
 
-I made HackCharm because I really just wanted to build something fun and full of personality! This project lets me bring all my favourite parts about building and tinkering together into this little cute device that I could carry around that can make me (and maybe other people too!!) smile every time I looked at it.  
 
 ### 3D Model:
 
