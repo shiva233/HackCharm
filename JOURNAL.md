@@ -371,6 +371,8 @@ Update 2:
 
 YEYSYSYSY YESS I GOT A FACE TO SHOW UP ON THE SCREEN!! THAT MEANS MY PCB WORKS AND I DIDNT FUCK UP YAYYYYYYYYYYY
 
+I had to do a lot of messing around for the image to show up properly, I forgot to take pics while it was not working properly but basically it all boiled down to me declaring the oled wrong oops. but now its works!! >:D
+
 
 ![image](https://github.com/user-attachments/assets/a683bc1d-2bda-4237-9c8b-d51185638dd4)
 
@@ -384,8 +386,20 @@ I did notice however some problems in the case: the tolerances for the oled disp
 
 I will be changing these things and reprint tmrw!!
 
+**Total time spent: 4h**
+
 # June 29th - Mostly worked on the magazine page today :0
 
 I didnt really document majority of the poster making process but I wanna show it off anyways :D
 
+here u go: 
+g
+[HackCharm - Shiva Prakash _D.pdf](https://github.com/user-attachments/files/20973776/HackCharm.-.Shiva.Prakash._D.pdf)
+
+Also bonus but I made an owo? screen hehehe
+
 tadaaa: 
+![image](https://github.com/user-attachments/assets/77c0a0e3-28a4-455f-ba35-a646bfd468e7)
+
+**Total time spent: 2h**
+
