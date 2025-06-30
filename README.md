@@ -40,7 +40,7 @@ I made HackCharm because I really just wanted to build something fun and full of
 
 |**Item**|**Purpose**                     |**Source**|**Price (CAD)**                                 |
 |----|-----------------------------|------|---------------------------------------------|
-|Xiao-ESP32-S3|Controller                   |AliExpress([Link](https://a.aliexpress.com/_mr6FPuF))|$11.08                                       |
+|Xiao-ESP32-S3|Controller                   |AliExpress([Link]())|$11.08                                       |
 |128x128 OLED Display|Output                       |AliExpress([Link](https://a.aliexpress.com/_mNI13Ir))|$8.44                                        |
 |GY-362 ADXL362 Accelerometer|Input                        |AliExpress([Link](https://www.aliexpress.us/item/1005007113522695.html?spm=a2g0o.productlist.main.1.41835e6cqzVJ25&algo_pvid=fee97835-5e5c-4af8-af68-d18792b41281&algo_exp_id=fee97835-5e5c-4af8-af68-d18792b41281-0&pdp_ext_f=%7B%22order%22%3A%2216%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%213.55%213.55%21%21%2118.22%2118.22%21%402101effb17496335958893809e6e64%2112000039448744636%21sea%21CA%210%21ABX&curPageLogUid=qWPVdHTwuQrT&utparam-url=scene%3Asearch%7Cquery_from%3A))|$5.35                                        |
 |2.54mm Headers |Connector                    |AliExpress([Link](https://www.aliexpress.us/item/3256805470972472.html?spm=a2g0o.cart.0.0.624538daxjmIoN&mp=1&pdp_npi=5%40dis!CAD!CAD%203.12!CAD%203.12!!CAD%203.12!!!%402103244417496191960858421e5267!12000033913162578!ct!US!4143424543!!1!0&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D&gatewayAdapt=glo2usa))|$3.43                                        |
