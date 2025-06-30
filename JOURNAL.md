@@ -393,8 +393,7 @@ I will be changing these things and reprint tmrw!!
 I didnt really document majority of the poster making process but I wanna show it off anyways :D
 
 here u go: 
-g
-[HackCharm - Shiva Prakash _D.pdf](https://github.com/user-attachments/files/20973776/HackCharm.-.Shiva.Prakash._D.pdf)
+![HackCharm - Shiva Prakash _D](https://github.com/user-attachments/assets/ed7028e8-7035-4e55-b2e2-82c096a017a8)
 
 Also bonus but I made an owo? screen hehehe
 
