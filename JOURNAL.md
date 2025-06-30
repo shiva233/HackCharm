@@ -354,4 +354,16 @@ With that I can make the final BOM:
 
 Which means...
 
-# I AM OFFICIALLY DONE WITH THE DESIGN PHASE!! (Thank you for reading my entire journal!)
+# I AM OFFICIALLY DONE WITH THE DESIGN PHASE!! (Thank you for reading my entire journal! (design phase)
+
+
+# June 28th - THE PARTS HAVE ARRIVED MWEHEHE
+
+yap yappp yappity yap yap yaup
+
+
+# June 29th - Mostly worked on the magazine page today :0
+
+I didnt really document majority of the poster making process but I wanna show it off anyways :D
+
+tadaaa: 
