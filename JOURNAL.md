@@ -402,3 +402,40 @@ tadaaa:
 
 **Total time spent: 2h**
 
+## June 30th - Case reworks + Ideas for more expressions :D
+
+Alright so the case has a few problems like I mentioned before, the display is way too tight and doesnt fit properly, I have to rotate the image to make it make sense with the keychain hook (like the face is facing sideways if you hold it with the keychain hook facing up), and the usb-c ports placement is kinda messsed up like its not in the best spot to make everything fit properly, and finally the pcb didnt fit snugly into the case without me extruding a bit further down :0
+
+Tada: This is v1, v2, and v3 of the HackCharm case :D
+
+![image](https://github.com/user-attachments/assets/69dd6537-4741-4c2d-9c6c-ba95cb9cce39)
+
+also if you are wondering why the third one suddenly looks so much smoother, its actually because im a 3d printing genius who was able to dial all of his settings in perfectly! (im joking its because I decided to stop being dumb and print the flat side facing down instead of facing up with supports below)
+
+![image](https://github.com/user-attachments/assets/38f61e87-99ba-4ff8-aed1-ba690eb54446)
+
+2nd thing I did, I realized that the jumper wires were being annoying and requiring way too much space to fit into the case without manuevering it in some weird way (how evil you vile jumper wires) or making the case bigger (which I dont wanna do!)
+
+Anyways to combat these evil jumper wires I cut off their heads and soldered the ends directly to the PCB >:D (I have like a ton of these so i dont feel that badd)
+
+Anyways the soldering job was really bad because I am really bad at soldering wires compared to THT D: but oh well it works yayay
+
+![image](https://github.com/user-attachments/assets/ad4ccacb-a361-426b-9f10-00d212d437ad)
+![image](https://github.com/user-attachments/assets/49ee170e-3ef8-4a2e-9c5a-3716d003faae)
+It still works^ YIPPEEE
+
+So yeah basically I realized that using the right angle jumper wires ended up just taking way too much space and so soldering it was the best option. I think this is one of those things I wouldnt have realized until I actually started building it physically so I dont really regret designing around the right angle jumper wires originally :0
+
+ok and then I put some electrical tape over the back of the OLED because I was concerned about something from the pcb touching it and shorting it D:
+![image](https://github.com/user-attachments/assets/90a8c98a-f675-465a-9fcb-857ae6eea8b5)
+
+![image](https://github.com/user-attachments/assets/ed1f4d04-359a-40ec-a8a8-e1a55a1f5813)
+
+Too tired to make the lid today sooo im gonna improvise >:)
+![image](https://github.com/user-attachments/assets/6187f49d-e1c5-4c3f-8faa-4b6e6c9a63cd)
+
+hehehe
+
+And final thing that im probably gonna work on tmrw, I planned out a few more faces/expressions/animations HackCharm could have and what triggers them. I drew out a state machine (barely know what this means not sure if im using it right) in my notebook that I will show in tmrws entry :D
+
+**Total time spent: 2h**
