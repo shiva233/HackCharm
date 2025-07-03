@@ -439,3 +439,16 @@ hehehe
 And final thing that im probably gonna work on tmrw, I planned out a few more faces/expressions/animations HackCharm could have and what triggers them. I drew out a state machine (barely know what this means not sure if im using it right) in my notebook that I will show in tmrws entry :D
 
 **Total time spent: 2h**
+
+
+## July 2nd - Messing around with the accelerometer!
+
+Hi hi today I tried to get the accelerometer to work so I can start actually interacting with HackCharm, I know I said I would work on more expressions and stuff next but I wasnt really feeling.
+
+Anyways I figured out after a lot of googling and worrying that I messed up my PCB how to read values from the accelerometer :D
+
+Tada:
+
+![image](https://github.com/user-attachments/assets/905753b4-e5d7-4b82-83fa-559baac8faa3)
+ 
+Now I need to figure out how to make this interactive hmm
