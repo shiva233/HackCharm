@@ -452,3 +452,15 @@ Tada:
 ![image](https://github.com/user-attachments/assets/905753b4-e5d7-4b82-83fa-559baac8faa3)
  
 Now I need to figure out how to make this interactive hmm
+
+
+# July 4th - Locking in for the firmware!
+
+Ok so here is how the firmware is going to work in my mind, basically there is going to be a bunch of seperate gifs for each 'state' of HackCharm like sleepy, idle, shaking reaction, tapping reaction, dizzy etc etc!
+
+and I am going to use a function with a switch case to go draw these states like this 
+![image](https://github.com/user-attachments/assets/d3c15544-b663-417b-8998-0fa916574c61)
+
+And within my loop I am going to call this function to draw the appropriate face/gif. So all I need to do after I set this up is make functions to detect tapping and shaking and change the variable used in the switch case apropriately when each is detected. I also need to make functions to detect other things like idling for too long which results in sleeping etc etc!!
+
+So far I have spent around 1 hour on the firmware!! I will update in a bit
