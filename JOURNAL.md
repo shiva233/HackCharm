@@ -464,3 +464,33 @@ and I am going to use a function with a switch case to go draw these states like
 And within my loop I am going to call this function to draw the appropriate face/gif. So all I need to do after I set this up is make functions to detect tapping and shaking and change the variable used in the switch case apropriately when each is detected. I also need to make functions to detect other things like idling for too long which results in sleeping etc etc!!
 
 So far I have spent around 1 hour on the firmware!! I will update in a bit
+
+(so I did not get to work on it more today oops)
+
+**Total time spent: 1h**
+
+# July 5th - More locking in for firmware!
+
+I present to you... shake detection!
+
+Tada:
+
+https://github.com/user-attachments/assets/b34e21b9-1d90-43d4-b4d2-34406f461e84
+
+Our lil buddy can now detect if you are shaking him :D, for now its really simple but im super glad this worked because its kind of like a proof of concept?? a bit late I know but still im excited :D
+
+also bonus here is another face I drew:
+
+![image](https://github.com/user-attachments/assets/a7fee61a-4ed6-4873-82ef-65668dbf808b)
+
+hehe dizzy
+
+Oh btw I put everything on an another PCB cuz the wires broke off and I was getting annoyed with the solder job on the old PCB anyways so here is the solder job on the new PCB!
+
+here u go:
+
+![image](https://github.com/user-attachments/assets/6b398135-9217-4ba2-b097-1d1231eefedb)
+
+![image](https://github.com/user-attachments/assets/ba02b7a7-b422-45cb-9d76-71bd46ae7b9e)
+
+time spent so far is an hour ish I think including the soldering
