@@ -479,6 +479,43 @@ https://github.com/user-attachments/assets/b34e21b9-1d90-43d4-b4d2-34406f461e84
 
 Our lil buddy can now detect if you are shaking him :D, for now its really simple but im super glad this worked because its kind of like a proof of concept?? a bit late I know but still im excited :D
 
+here is the code or well part of the code that makes this work:
+
+```c++
+void loop(void) {
+
+  xl.readXYZTData(XValue, YValue, ZValue, Temperature);  
+ // Convert to m/s^2
+  float x = XValue * 0.0098;
+  float y = YValue * 0.0098;
+  float z = ZValue * 0.0098;
+  float avgAccel = (x+y+z)/3;
+
+  // info in serial monitor
+  Serial.println("m/s^2 --> x: " + String(x, 3) + "\t, y: " + String(y, 3) + "\t, z: " + String(z, 3));
+  
+  if (avgAccel >= 5|| avgAccel <= -5)
+  {
+    Serial.println("testing testing monkey monkey");
+    
+    if (currentState == TAP_REACTION){
+      currentState = IDLE;
+    }
+    else
+    {
+     currentState = TAP_REACTION;
+    } 
+    
+    delay(1000);
+  }
+
+  drawState(currentState);
+
+  delay(500);
+
+}
+```
+
 also bonus here is another face I drew:
 
 ![image](https://github.com/user-attachments/assets/a7fee61a-4ed6-4873-82ef-65668dbf808b)
