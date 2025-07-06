@@ -531,3 +531,32 @@ here u go:
 ![image](https://github.com/user-attachments/assets/ba02b7a7-b422-45cb-9d76-71bd46ae7b9e)
 
 time spent so far is an hour ish I think including the soldering
+
+**total time spent: 1h**
+
+# July 5th - Firmware for the prototype is almost done!
+
+yayaya so basically its almost done I spent a lot of time working on this today, made a few functions and basically HackCharm is a lot more smart now!! (bro can go to sleep now and wake up, and also react to taps and shakes mwehehe)
+
+So basically HackCharm's prototype's firmware is complete and now just needs some finetuning on the sensitivity/thresholds for triggering animations and well the actual animations themselves to be added (I havent drawn a lot of them yet, there are just placeholders and single frames for now).
+
+But the transitions between animations/states works exactly like i want it to yay :D
+
+This is what I want the HackCharm state machine to look like:
+
+ ![image](https://github.com/user-attachments/assets/c04f1d2f-69b6-4254-a98a-fe28aeed2c2b)
+
+So basically you start at the IDLE expression and based on if HackCharm is shaked ot tapped it goes into those respective reactions. For the prototype I want tap to have atleast 3 possible reactions that it chooses from randomly and for shake for the protoype it will have one reaction (wee) but if you keep shaking it while it is in the shake reaction it will go into dizzy mode hehe.
+
+Oh and if you dont do anything for a bit (right now its set to 15 seconds) HackCharm will go to sleep (honk mimimimimi zzzzzzzz) and if you do any movement like tap or shake it will go into WAKE animation/state and then come back to IDLE :D
+
+btw I think I will add on more animations but for the purpose of shipping the project in a good timeframe im gonna stick to 3 tap reactions and the pair of shake reactions and that should be good for now :0
+
+So this is what I did with the firmware today :D here is a demo video (the thresholds for triggering the animations arent perfect yet, and obv these are placeholder images for the actualy gifs/animations and there will be a few more animations): 
+
+https://github.com/user-attachments/assets/a061cae9-3c47-4f08-acf6-5f305ff23169
+
+//EXPLAIN CODE HERE LATER RAAA
+
+Next steps are gonna be actually having gifs for each state (so a lot of time in aesprite hehe) and then adjust the thresholds for triggering the animations a bit :0
+**Total time spent: 4h**
