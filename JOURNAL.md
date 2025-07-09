@@ -556,7 +556,18 @@ So this is what I did with the firmware today :D here is a demo video (the thres
 
 https://github.com/user-attachments/assets/a061cae9-3c47-4f08-acf6-5f305ff23169
 
-//EXPLAIN CODE HERE LATER RAAA
 
 Next steps are gonna be actually having gifs for each state (so a lot of time in aesprite hehe) and then adjust the thresholds for triggering the animations a bit :0
 **Total time spent: 4h**
+
+
+# July 9th - Running out of time undercity is almost here D: but made progress!!
+
+I finished one of the animations, the one for sleeping!
+
+tada:
+
+
+https://github.com/user-attachments/assets/e7540694-95f3-4715-bdbc-39b0418a3a95
+
+
