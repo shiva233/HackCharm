@@ -4,7 +4,7 @@
 
 ## What is HackCharm???
 
-#### Note: HackCharm is not finished yet! It is still being developed, you can see the [journal/devlog here!](JOURNAL.md) :D It has updates around every week and you can see how I got to this point!
+Note: HackCharm is not finished yet! It is still being developed, you can see the [journal/devlog here!](JOURNAL.md) :D It has updates around every week and you can see how I got to this point!
 
 _**HackCharm**_ is a tiny, keychain / lil buddy that lives on your back or your keys and lights up with cute little faces! It will react to your taps, shakes, and any other love you show it!! It shows different emotions on its screen depending on how you interact with it. It's powered by an Xiao ESP32, a custom PCB, and lives inside a 3d printed shell! To sum it up HackCharm is a decorative and interactive no-maintenance tomagotchi mixed with a sci-fi gadget :D
 
