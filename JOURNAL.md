@@ -573,3 +573,5 @@ https://github.com/user-attachments/assets/e7540694-95f3-4715-bdbc-39b0418a3a95
 # August 12th - Finally wrapping up the project.
 
 Unfortunately due to some personal/family things I wasnt able to work on HackCharm but I was working on the animations here and then. I am done most of them since I worked on it a bit here and then since july 9th but not enough for a whole journal entry. I have also soldered on the battery! will be submitting tmrw :D
+
+THIS JOURNAL ENTRY IS NOT DONE MORE PICTURES/VIDEOS SOON!!
