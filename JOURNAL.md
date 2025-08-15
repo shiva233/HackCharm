@@ -10,6 +10,7 @@ created_at: "2025-05-22"
 
 ## Total Hours spent on Design Phase: 25 Hours
 
+## Total Hours spent on Assembly Phase: 14 Hours
 
 # May 22nd: Planning/Designing on my notebook!
 
@@ -572,6 +573,8 @@ https://github.com/user-attachments/assets/e7540694-95f3-4715-bdbc-39b0418a3a95
 
 # August 12th - Finally wrapping up the project.
 
-Unfortunately due to some personal/family things I wasnt able to work on HackCharm but I was working on the animations here and then. I am done most of them since I worked on it a bit here and then since july 9th but not enough for a whole journal entry. I have also soldered on the battery! will be submitting tmrw :D
+Unfortunately due to some personal/family things I wasnt able to work on HackCharm but I was working on the still frames here an then. I am done most of them since I worked on it a bit here and then since july 9th but not enough for a whole journal entry. I have also soldered on the battery! will be submitting tmrw :D. Unfortunately I do not have enough time to add full on animations like hack charm deserves but I am still happy with this project and I love how cute it is as a keychain :DD
 
-THIS JOURNAL ENTRY IS NOT DONE MORE PICTURES/VIDEOS SOON!!
+# August 13th - Done!
+
+
