@@ -2,13 +2,21 @@
 
 ![HackCharm - Shiva Prakash _D](https://github.com/user-attachments/assets/158f7c20-f73e-4ecc-8fd4-6e8544891299)
 
+Demo:
+
+https://youtube.com/shorts/m5JpdUDIWmo
+
 ## What is HackCharm???
 
-Note: HackCharm is not finished yet! It is still being developed, you can see the [journal/devlog here!](JOURNAL.md) :D It has updates around every week and you can see how I got to this point!
+Note: you can see the [journal/devlog here!](JOURNAL.md) :D to see how I got to this point!
 
 _**HackCharm**_ is a tiny, keychain / lil buddy that lives on your back or your keys and lights up with cute little faces! It will react to your taps, shakes, and any other love you show it!! It shows different emotions on its screen depending on how you interact with it. It's powered by an Xiao ESP32, a custom PCB, and lives inside a 3d printed shell! To sum it up HackCharm is a decorative and interactive no-maintenance tomagotchi mixed with a sci-fi gadget :D
 
 ![hackcharm1](https://github.com/user-attachments/assets/0f5f2d32-f441-41b5-a7b8-b7f0d974254a)
+
+<img width="560" height="655" alt="image" src="https://github.com/user-attachments/assets/6dbdc57e-d787-4077-a547-dfc363c27dfc" />
+
+
 
 ## Why did I make it?
 
@@ -38,9 +46,7 @@ I made HackCharm because I really just wanted to build something fun and full of
 ![image](https://github.com/user-attachments/assets/2992bb9d-a93a-40bc-857b-63156cadb17d)
 
 
-### Simulating some Firmware!
 
-![image](https://github.com/user-attachments/assets/f1a5eea9-8b90-4233-9f8b-234e290ebe85)
 
 
 ### BOM
